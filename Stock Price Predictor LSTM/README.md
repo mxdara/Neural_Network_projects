@@ -1,5 +1,4 @@
 # Stock Price Predictor
-*Udacity - Machine learning Nano Degree Program : Project-6 (Capstone project)*
 
 ## Project Overview
 *This is sixth and final capstone project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
@@ -12,7 +11,7 @@ This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural
 
 I have used Keras to build a LSTM to predict stock prices using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model.
 
-![Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor/blob/master/data_visualization_lstm_improved.png)
+
 
 
 ## Problem Highlights
